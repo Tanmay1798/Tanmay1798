@@ -5,8 +5,7 @@
      
      -📧 1798.tkp@gmail.com
      
-     -🔗 https://www.linkedin.com/in/tanmaypednekar/
-![900px-LinkedIn_logo_initials](https://user-images.githubusercontent.com/83057230/160676676-42af6ccf-3dc0-4051-a59e-722e282f259b.png)
+     -🔗 ![link](https://user-images.githubusercontent.com/83057230/160676985-2cf5d5d7-8cac-4ea9-b494-99d618c3e9f5.png) https://www.linkedin.com/in/tanmaypednekar/
 
 <!---
 Tanmay1798/Tanmay1798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
