@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanmay Pednekar 😎.
 - 👀 I’m interested in SOFTWARE DEVELOPMENT 💻.
-- 🌱 I’m currently learning PYTHON 🐍.
+- 🌱 I’m currently learning PYTHON 🐍 & JAVA ☕.
 - 📫 How to reach me ...
      
      -📧 1798.tkp@gmail.com
