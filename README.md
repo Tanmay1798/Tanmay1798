@@ -35,8 +35,8 @@ I enjoy building scalable, maintainable applications and am committed to continu
 ### 📫 How to Reach Me
 
 I'm open to collaboration, networking, and new opportunities.  
-📧 **Email**: 1798.tkp@gmail.com *(replace with your actual email)*  
-🔗 **LinkedIn**: https://www.linkedin.com/in/tpednekar/ *(optional)*
+📧 **Email**: 1798.tkp@gmail.com  
+🔗 **LinkedIn**: https://www.linkedin.com/in/tpednekar/ 
 
 ---
 
